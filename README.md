@@ -1,6 +1,8 @@
+**Link to Doc File :** https://docs.google.com/document/d/18KMiumgdXZgEBWHbK4e0MvrsfRveVoTUhBVpVkMNIp0/edit?usp=sharing 
+
 # Blockchain
 Blockchain is a decentralized and distributed digital ledger technology. In this technology, Each
-transaction or action is sotred in the form of a block. Each block has a timestamp, data, a hash and
+transaction or action is sorted in the form of a block. Each block has a timestamp, data, a hash and
 a link the hash of previous block. Each block is connected to previous block using hashes to form a
 chain. This blockchain is distributed among the users and each transaction is validated by the users.
 This ensures that each transaction on the blockchain is valid. The blockchain is distributed among
